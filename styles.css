@@ -58,12 +58,16 @@ h1{
     gap: 5px;
 }
 .right-side{
+    display: flex;
     background-color: gray;
     text-align: center;
+    justify-content: center;
+    align-items: center;
     color: white;
     width: 400px;
     height: 170px;
     margin-left: auto; 
+
 }
 
 button{
